@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAAssemblies", "CAAssemblies.csproj", "{B6256108-6B7D-48A7-9AAC-CDF6292FF6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6256108-6B7D-48A7-9AAC-CDF6292FF6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6256108-6B7D-48A7-9AAC-CDF6292FF6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6256108-6B7D-48A7-9AAC-CDF6292FF6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6256108-6B7D-48A7-9AAC-CDF6292FF6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E423D1D-905B-49F3-91B0-1688581F603B}
+	EndGlobalSection
+EndGlobal

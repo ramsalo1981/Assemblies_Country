@@ -1,0 +1,15 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\bin\Debug\net7.0\CAAssemblies.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\bin\Debug\net7.0\CAAssemblies.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\bin\Debug\net7.0\CAAssemblies.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\bin\Debug\net7.0\CAAssemblies.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\bin\Debug\net7.0\CAAssemblies.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\obj\Debug\net7.0\CAAssemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\obj\Debug\net7.0\CAAssemblies.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\obj\Debug\net7.0\CAAssemblies.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\obj\Debug\net7.0\CAAssemblies.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\obj\Debug\net7.0\CAAssemblies.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\obj\Debug\net7.0\refint\CAAssemblies.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\obj\Debug\net7.0\CAAssemblies.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\obj\Debug\net7.0\CAAssemblies.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\obj\Debug\net7.0\ref\CAAssemblies.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAssemblies\bin\Debug\net7.0\data\countries.json
